@@ -41,5 +41,5 @@ $5 – 9 Volt Battery
 Calibration process (look at the circle).
 ![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/eyetracking_calibration.jpg)
 
-Here you can see the actual game. The green circle shows you the position of the eye gaze. Its vertical position is mapped to the position of the game's main character.
+Here you can see the actual game. The green circle shows you the position of the eye gaze. Its vertical position is mapped to the position of the game's main character. Collect yellow assignments, don't miss more than 5 and avoid the blue obstacles or the game is over! 
 ![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/game.png)
