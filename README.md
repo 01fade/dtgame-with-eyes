@@ -18,6 +18,9 @@ To actually play the game we added an additional scene(mode) and for simplicity 
 
 *Physical components needed*
 Hack the PSEye and swap the camera with a tele lens (the view field is very narrow in comparison). Add IR Leds to enhance the contrast in the eye (brings out the pupil). Noticed in tests, some eye colors work better than others.
+![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/hack1.jpg)
+![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/hack2.jpg)
+![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/hack3.jpg)
 ![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/pseye.jpg)
 
 $10 – [PSEye](http://www.amazon.com/gp/product/B000VTQ3LU/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
