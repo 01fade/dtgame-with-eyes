@@ -20,14 +20,11 @@ To actually play the game we added an additional scene(mode) and for simplicity 
 Hack the PSEye and swap the camera with a tele lens (the view field is very narrow in comparison). Add IR Leds to enhance the contrast in the eye (brings out the pupil). Noticed in tests, some eye colors work better than others.
 ![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/pseye.jpg)
 
-$10 – PSEye
-(http://www.amazon.com/gp/product/B000VTQ3LU/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
+$10 – [PSEye](http://www.amazon.com/gp/product/B000VTQ3LU/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
 
-$9 – Lens 
-(http://www.amazon.com/gp/product/B00N3ZPTE6/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
+$9 – [Lens](http://www.amazon.com/gp/product/B00N3ZPTE6/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 
-$6 – Lens Mount 
-(http://www.ebay.com/itm/111500226186?_trksid=p2060778.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT)
+$6 – [Lens Mount](http://www.ebay.com/itm/111500226186?_trksid=p2060778.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT)
 
 $9 – IR Leds (20 pieces)
 
