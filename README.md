@@ -17,3 +17,6 @@ I added code, so you can plug in your Playstation Eye Camera and you're good to 
  
 **Demo**
 ![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/eyetracking_calibration.png)
+![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/eyetracking1.png)
+![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/eyetracking2.png)
+![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/game.png)
