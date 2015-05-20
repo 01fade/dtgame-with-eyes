@@ -37,6 +37,8 @@ $5 – 9 Volt Battery
 
 ![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/eyetracking2.jpg)
 ![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/eyetracking1.png)
+
+Calibration process (look at the circle).
 ![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/eyetracking_calibration.jpg)
 
 Here you can see the actual game. The green circle shows you the position of the eye gaze. Its vertical position is mapped to the position of the game's main character.
