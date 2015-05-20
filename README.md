@@ -16,4 +16,4 @@ I added code, so you can plug in your Playstation Eye Camera and you're good to 
 - ofxKinect
  
 **Demo**
-![eyetracking_calibration](https://github.com/228miles/dtgame-with-eyes/edit/master/documentation/eyetracking_calibration.png)
+![](https://github.com/228miles/dtgame-with-eyes/blob/master/documentation/eyetracking_calibration.png)
