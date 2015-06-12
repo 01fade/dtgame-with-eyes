@@ -1,6 +1,8 @@
 THE DT GAME - for your eyes
 ==============
 
+Project by Lama Shehadeh, Umi Syam and Hang Do Thi Duc.
+
 Based on Eyewriter 1.0
 Download raw Eyewriter 1.0 code here: https://github.com/eyewriter/eyewriter-1.0
 
